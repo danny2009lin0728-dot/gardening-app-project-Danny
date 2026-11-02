@@ -1,2 +1,2 @@
 # gardening-app-project-Danny
-# Gardening App Project - Updated by Main Account
+# Gardening App Project - Updated by Second Account
