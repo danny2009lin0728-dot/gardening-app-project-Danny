@@ -1,1 +1,1 @@
-# Gardening App Project - Updated by Second Account
+# Gardening App Project - Updated by Main Account
